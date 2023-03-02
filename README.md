@@ -1,7 +1,12 @@
 # OduncKitapProjesi_SUNUM
 Merhaba, Ödünç Kitap Projesini İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte ortak sınıf projesi olarak yaptık. Ödünç Kitap Projesi Aspnet MVC ile yazdığımız bir web projesidir. Kapsamı geniş olan bu projeyi belirli kurs sürecimizdeki zaman koşullarına göre yazdık.Proje Güncellenmeye devam etmektedir.Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
-PROJE HAKKINDA TEKNİK BİLGİLER: Proje AspNet MVC yapısıyla yazılmıştır. Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır. Projede Vitrin ve Admin Yönetim Paneli olmak üzere iki ayrı tasarım bulunmaktadır. Vitrin sayfasında En Çok Ödünç alınan kitaplar ve sisteme eklenen yeni kitaplar sergilenmektedir. Kitabı ödünç alabilmek için üyenin sisteme giriş yapması gerekmektedir. Aynı zamanda üye, kütüphane görevlisine bildirerek de kitabı ödünç alabilir. Çünkü Admin Panelinde ödünç işlem sayfası mevcuttur. Projeyi 2 katman (BLLveDAL,UIForm) olarak yazdık. Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
+PROJE HAKKINDA TEKNİK BİLGİLER: 
+* Proje AspNet MVC yapısıyla yazılmıştır.
+* Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır. 
+* Projede Vitrin ve Admin Yönetim Paneli olmak üzere iki ayrı tasarım bulunmaktadır. Vitrin sayfasında En Çok Ödünç alınan kitaplar ve sisteme eklenen yeni kitaplar sergilenmektedir. Kitabı ödünç alabilmek için üyenin sisteme giriş yapması gerekmektedir. Aynı zamanda üye, kütüphane görevlisine bildirerek de kitabı ödünç alabilir. Çünkü Admin Panelinde ödünç işlem sayfası mevcuttur. 
+* Projeyi 2 katman (BLLveDAL,UIForm) olarak yazdık. 
+Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 ![1](https://user-images.githubusercontent.com/73273677/217252069-a7647c2e-415e-43cd-8065-e9ff20108f70.png)
 ![2](https://user-images.githubusercontent.com/73273677/217252080-1c2d9d13-c8de-4e32-b2a0-c9cdf404cd89.png)
 ![3](https://user-images.githubusercontent.com/73273677/217252093-4b96cc63-addd-4425-a22c-0cdf2291fdbf.png)
